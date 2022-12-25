@@ -3,3 +3,38 @@ body {
   height: 100%;
   margin: 0;
 }
+
+#main-header {
+  text-align: center;
+}
+
+#featured-property  {
+  text-align: center;
+}
+
+#featured-property > p  {
+  display: inline-block;
+  text-align: center;
+  width: 800px;
+}
+
+#nav-bar {
+  text-align: center;
+}
+
+#nav-bar-element {
+  background-color: blueviolet;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#image-caption {
+  font-size: small;
+}
+
+#details > div {
+  float: left;
+  background-color: rebeccapurple;
+  text-align: center;
+  width: 25%;
+}
